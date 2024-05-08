@@ -1,0 +1,39 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+.caveat-custom {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 600; /* You can replace this with the desired font weight */
+    font-style: normal;
+  }
+
+  .inconsolata {
+    font-family: "Inconsolata", monospace;
+    font-optical-sizing: auto;
+    font-weight: 350;
+    font-style: normal;
+    font-size: medium;
+    font-variation-settings:
+      "wdth" 75;
+  }
+  
+  .inconsolata-bold {
+    font-family: "Inconsolata", monospace;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: larger;
+    font-variation-settings:
+      "wdth" 100;
+  }
+
+  .exo-2 {
+    font-family: "Exo 2", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
