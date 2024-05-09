@@ -10,7 +10,7 @@ function Header() {
     <header className="caveat-custom text-2xl bg-gray-900 text-white py-2 px-6 flex flex-wrap justify-between items-center">
       {/* Logo */}
       <div className="flex items-center">
-        <img src={tLogo} alt="Logo" className=" w-40 ml-8 mr-12" />
+        <img src={tLogo} alt="Logo" className=" w-40 md:ml-8 mr-12" />
         {/* <h1 className="text-lg font-bold">Ambika Cane Industries</h1> */}
       </div>
       
