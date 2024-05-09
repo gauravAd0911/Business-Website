@@ -21,8 +21,8 @@ function App() {
         <Route path="/gallery" element={<Gallery />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/Products" element={<Products />} />
-        <Route path="/blog" element={<Blog />} />
-        <Route path="/blog/:id" element={<DetailedBlog />} />
+{/*         <Route path="/blog" element={<Blog />} />
+        <Route path="/blog/:id" element={<DetailedBlog />} /> */}
         {/* Add more routes as needed */}
       </Routes>
      
