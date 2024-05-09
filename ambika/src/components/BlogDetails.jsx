@@ -1,9 +1,9 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
-import blogd1 from './../assets/images/blogd1.jpg';
-// import blogd2 from './../assets/images/blogd2.jpg';
-import blogd3 from './../assets/images/blogd3.jpg';
-import blogd4 from './../assets/images/blogd4.jpg';
+// import blogd1 from './../assets/images/blogd1.jpg';
+// // import blogd2 from './../assets/images/blogd2.jpg';
+// import blogd3 from './../assets/images/blogd3.jpg';
+// import blogd4 from './../assets/images/blogd4.jpg';
 // import blogd5 from './../assets/images/blogd5.jpg';
 
 function BlogDetails() {
