@@ -27,7 +27,7 @@ function HomeComp() {
       <div className=" caveat-custom  md:w-1/2 text-center">
         {/* <h1 className="text-4xl md:text-6xl font-bold mb-4">Welcome to <br /><span>Ambika Cane Industries</span></h1> */}
         <p className="text-lg text-orange-100 md:text-xl mb-8"><span className='md:text-5xl text-orange-50'>We're Goa's premier cane furniture manufacturer.</span> <br />Trusted by coastal clients, our designs elevate every space. <br />Reach out to us for custom designs.</p>
-        <Link href="/contact" className="inline-flex items-center text-2xl bg-orange-500 text-white font-bold px-6 py-3 rounded-lg hover:bg-yellow-600 transition-all duration-300 ease-in-out">
+        <Link to="/contact" className="inline-flex items-center text-2xl bg-orange-500 text-white font-bold px-6 py-3 rounded-lg hover:bg-yellow-600 transition-all duration-300 ease-in-out">
       Contact Us
       <svg className="w-6 h-6 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
