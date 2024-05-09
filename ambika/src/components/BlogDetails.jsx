@@ -1,12 +1,12 @@
-// import React from 'react';
-// import { useParams } from 'react-router-dom';
-// // import blogd1 from './../assets/images/blogd1.jpg';
-// // // import blogd2 from './../assets/images/blogd2.jpg';
-// // import blogd3 from './../assets/images/blogd3.jpg';
-// // import blogd4 from './../assets/images/blogd4.jpg';
-// // import blogd5 from './../assets/images/blogd5.jpg';
+import React from 'react';
+import { useParams } from 'react-router-dom';
+// import blogd1 from './../assets/images/blogd1.jpg';
+// // import blogd2 from './../assets/images/blogd2.jpg';
+// import blogd3 from './../assets/images/blogd3.jpg';
+// import blogd4 from './../assets/images/blogd4.jpg';
+// import blogd5 from './../assets/images/blogd5.jpg';
 
-// function BlogDetails() {
+function BlogDetails() {
 //   // Get the blog ID from the URL parameters
 //   const { id } = useParams();
 
@@ -76,7 +76,7 @@
 //       <img src={blog.image} alt={blog.title} className="mb-4 " />
 //       <p className="">{blog.content}</p>
 //     </div>
-//   );
-// }
+ // );
+}
 
-// export default BlogDetails;
+export default BlogDetails;
