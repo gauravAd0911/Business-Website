@@ -8,8 +8,8 @@ import About from './pages/About';
 import Gallery from './pages/Gallery';
 import Contact from './pages/Contact';
 import Products from './pages/Products';
-import Blog from './pages/Blog';
-import DetailedBlog from './pages/DetailedBlog';
+// import Blog from './pages/Blog';
+// import DetailedBlog from './pages/DetailedBlog';
 
 function App() {
   return (
