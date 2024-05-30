@@ -15,15 +15,15 @@ function Contact() {
             <form className='text-xl'>
               <div className=" mb-6">
                 <label htmlFor="name" className="block text-white font-medium mb-1">Your Name</label>
-                <input type="text" id="name" name="name" className="w-full border border-gray-300 rounded-md py-2 px-3 focus:outline-none focus:border-blue-400" />
+                <input type="text" id="name" name="name" className="w-full text-black border border-gray-300 rounded-md py-2 px-3 focus:outline-none focus:border-blue-400" />
               </div>
               <div className="mb-6">
                 <label htmlFor="email" className="block text-white font-medium mb-1">Your Email</label>
-                <input type="email" id="email" name="email" className="w-full border border-gray-300 rounded-md py-2 px-3 focus:outline-none focus:border-blue-400" />
+                <input type="email" id="email" name="email" className="w-full border text-black border-gray-300 rounded-md py-2 px-3 focus:outline-none focus:border-blue-400" />
               </div>
               <div className="mb-6">
                 <label htmlFor="message" className="block text-white font-medium mb-1">Your Message</label>
-                <textarea id="message" name="message" rows="4" className="w-full border border-gray-300 rounded-md py-2 px-3 focus:outline-none focus:border-blue-400"></textarea>
+                <textarea id="message" name="message" rows="4" className="w-full text-black border border-gray-300 rounded-md py-2 px-3 focus:outline-none focus:border-blue-400"></textarea>
               </div>
               <button type="submit" className="bg-orange-500 text-white font-semibold py-2 px-6 rounded-md hover:bg-blue-600">Send Message</button>
             </form>
